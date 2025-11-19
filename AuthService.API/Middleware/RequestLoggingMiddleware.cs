@@ -1,7 +1,5 @@
 ﻿using System.Diagnostics;
 using System.Text;
-using Microsoft.Extensions.Configuration;
-using System.Security.Claims;
 
 namespace AuthService.API.Middleware
 {
